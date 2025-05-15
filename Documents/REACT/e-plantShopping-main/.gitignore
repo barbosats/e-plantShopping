@@ -1,3 +1,11 @@
+# Ignorar diretórios do sistema
+.DS_Store
+Thumbs.db
+
+# Ignorar arquivos fora da pasta do projeto
+../*
+
+
 # Logs
 logs
 *.log
