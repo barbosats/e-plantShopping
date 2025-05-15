@@ -1,9 +1,13 @@
 # Ignorar diretórios do sistema
 .DS_Store
 Thumbs.db
+node_modules/
+dist/
+.git/
 
 # Ignorar arquivos fora da pasta do projeto
 ../*
+
 
 
 # Logs
